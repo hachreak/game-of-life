@@ -1,4 +1,3 @@
-<!--
 /**
  * Copyright (C) 2014 Leonardo Rossi <leonardo.rossi@studenti.unipr.it>
  *
@@ -17,18 +16,3 @@
  * Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA
  *
  */
--->
-<html>
-	<head>
-		<title>Juego de la vida</title>
-		<link href="./main.css" rel="stylesheet"/>
-	</head>
-	<body>
-
-		<pre id="field"/>
-
-		<script src="./underscore-min.js"></script>
-		<script src="./main.js"></script>
-	</body>
-</html>
-
